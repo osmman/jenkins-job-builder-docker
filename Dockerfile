@@ -2,7 +2,7 @@ FROM python:3
 
 MAINTAINER Tomas Turek <tturek@redhat.com>
 
-ENV VERSION master
+ENV VERSION 3.0.2
 
 WORKDIR /opt
 
