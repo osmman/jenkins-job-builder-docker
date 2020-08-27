@@ -1,6 +1,6 @@
 FROM python:3
 
-MAINTAINER Tomas Turek <tturek@redhat.com>
+LABEL maintainer="tturek@redhat.com"
 
 ENV VERSION master
 
