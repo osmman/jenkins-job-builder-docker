@@ -2,7 +2,7 @@ FROM python:3
 
 LABEL maintainer="tturek@redhat.com"
 
-ENV VERSION master
+ENV VERSION 3.9.0
 
 WORKDIR /opt
 
